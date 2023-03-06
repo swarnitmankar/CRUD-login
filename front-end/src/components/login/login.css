@@ -1,0 +1,40 @@
+.login-container {
+    margin: 40%;
+    margin-top: 5%;
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 9px;
+    background: linear-gradient(#4CD9FE, #6DA1FC);
+    width: 400px;
+}
+
+.login-container h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.inputbox {
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid transparent;
+    border-radius: 7px;
+}
+
+.login-btn {
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    margin-left: 25%;
+    margin-top: 8%;
+    background-color: #185acc;
+    color: white;
+    width: 150px;
+}
+
+.login-btn:hover {
+    background-color: #4CD9FE;
+    border-color: transparent;
+    cursor: pointer;
+}
